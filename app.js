@@ -17,7 +17,7 @@ function getTranslationUrl(text){
 function errorHandler(error)
 {
 console.log('there is an error',error)
-alert("something error")
+alert("some Error Found!")
 }
 
 function clickHandler(){
